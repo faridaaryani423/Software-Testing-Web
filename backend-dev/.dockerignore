@@ -1,0 +1,14 @@
+.venv
+venv
+__pycache__
+.git
+.env
+*.pyc
+.devcontainer
+engine-testing
+Dockerfile
+Dockerfile_*
+dump-deploy-cloud.sql
+modules
+java-worker
+static
